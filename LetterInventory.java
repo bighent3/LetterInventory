@@ -1,7 +1,3 @@
-//Henton Hailey-Marshall
-//CSE 143 AA with Ido Avnon
-//Homework A3: LetterInventory
-
 //This class accepts a string, reads in the characters and adds them to an alphabetically order
 //array. For each spot in the array where a letter corresponds to the number of each letter
 //present in that array is stored. 
